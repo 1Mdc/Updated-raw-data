@@ -1,0 +1,189 @@
+"","source","target","pathway_name","prob","pval"
+"1","B cells 1","B cells 1","BAFF",1.42038356556462e-09,0
+"2","B cells 1","B cells 1","CD22",0.000399945350856426,0
+"3","B cells 1","B cells 1","CD23",1.9687816533936e-09,0.01
+"4","B cells 1","B cells 1","CD45",0.000399945350856426,0
+"5","B cells 1","B cells 1","EPHB",6.92172810717273e-07,0
+"6","B cells 1","B cells 1","FGF",9.31382257145664e-10,0
+"7","B cells 1","B cells 1","GALECTIN",0.000770168890696333,0
+"8","B cells 1","B cells 1","GP1BA",1.76300648433405e-08,0.03
+"9","B cells 1","B cells 1","IL1",0.00144970977413638,0
+"10","B cells 1","B cells 1","MHC-I",0.0175493060250203,0
+"11","B cells 1","B cells 1","MHC-II",0.0505405633092294,0
+"12","B cells 1","B cells 1","MIF",6.48121214389114e-05,0
+"13","B cells 1","B cells 1","MK",0.000522495029772613,0
+"14","B cells 1","B cells 1","MPZ",6.36675047846018e-07,0
+"15","B cells 1","B cells 1","NPR2",7.6388431512956e-09,0.01
+"16","B cells 1","B cells 1","PDGF",4.77080676499984e-06,0
+"17","B cells 1","B cells 1","PECAM1",0.000770168890696333,0
+"18","B cells 1","B cells 1","SEMA4",4.53466212730517e-07,0
+"19","B cells 1","B cells 1","TGFb",0.000181808284803992,0
+"20","B cells 1","B cells 1","VEGF",4.23558472322035e-08,0
+"21","B cells 1","Hematopoietic Stem cells 1","BAFF",2.91189130605333e-08,0
+"22","B cells 1","Hematopoietic Stem cells 1","BTLA",3.67882051880506e-09,0
+"23","B cells 1","Hematopoietic Stem cells 1","CD23",2.12366112466527e-07,0.02
+"24","B cells 1","Hematopoietic Stem cells 1","CD45",0.000144888985795258,0.03
+"25","B cells 1","Hematopoietic Stem cells 1","COLLAGEN",9.2460623339795e-07,0
+"26","B cells 1","Hematopoietic Stem cells 1","EPHA",1.28849641483561e-07,0
+"27","B cells 1","Hematopoietic Stem cells 1","EPHB",3.35015285332619e-07,0
+"28","B cells 1","Hematopoietic Stem cells 1","FGF",3.16077591233749e-08,0
+"29","B cells 1","Hematopoietic Stem cells 1","GALECTIN",0.000145741741504753,0
+"30","B cells 1","Hematopoietic Stem cells 1","GP1BA",6.82317331368901e-09,0.02
+"31","B cells 1","Hematopoietic Stem cells 1","ICAM",9.00390365156065e-07,0.04
+"32","B cells 1","Hematopoietic Stem cells 1","IGF",1.2472846293469e-08,0
+"33","B cells 1","Hematopoietic Stem cells 1","IL1",0.000525515714591347,0
+"34","B cells 1","Hematopoietic Stem cells 1","LT",8.2293620132463e-05,0
+"35","B cells 1","Hematopoietic Stem cells 1","MHC-I",0.00342123482693594,0
+"36","B cells 1","Hematopoietic Stem cells 1","MIF",2.56033921059002e-05,0
+"37","B cells 1","Hematopoietic Stem cells 1","MPZ",1.60058541622416e-07,0
+"38","B cells 1","Hematopoietic Stem cells 1","NPR2",2.81169621140416e-09,0
+"39","B cells 1","Hematopoietic Stem cells 1","SEMA4",1.64712755486071e-07,0
+"40","B cells 1","Hematopoietic Stem cells 1","TGFb",5.21067712405373e-05,0.00333333333333333
+"41","B cells 1","Hematopoietic Stem cells 1","TNF",0.000154566713562038,0
+"42","B cells 1","Hematopoietic Stem cells 1","TRAIL",1.7399639243576e-08,0
+"43","B cells 1","Hematopoietic Stem cells 1","VEGF",1.82946696653297e-08,0
+"44","B cells 1","Hematopoietic Stem cells 2","EPHB",1.89919442801084e-07,0
+"45","B cells 1","Hematopoietic Stem cells 2","IL1",0.000249319157942969,0.015
+"46","B cells 1","Hematopoietic Stem cells 2","MHC-I",0.00575465531712588,0
+"47","B cells 1","Hematopoietic Stem cells 2","MHC-II",0.0194096104290635,0.0133333333333333
+"48","B cells 1","Hematopoietic Stem cells 2","MIF",0.00820772500847559,0
+"49","B cells 1","Hematopoietic Stem cells 2","SEMA4",2.77419365234582e-07,0
+"50","B cells 1","Hematopoietic Stem cells 3","CD23",1.84321058862886e-07,0
+"51","B cells 1","Hematopoietic Stem cells 3","COLLAGEN",4.76718027321949e-07,0.01
+"52","B cells 1","Hematopoietic Stem cells 3","EPHB",1.02047482108517e-07,0
+"53","B cells 1","Hematopoietic Stem cells 3","GALECTIN",7.51430264249178e-05,0
+"54","B cells 1","Hematopoietic Stem cells 3","GP1BA",5.40750795660625e-09,0
+"55","B cells 1","Hematopoietic Stem cells 3","ICAM",0.00013230396370983,0.008
+"56","B cells 1","Hematopoietic Stem cells 3","IL1",7.64318460727215e-05,0.015
+"57","B cells 1","Hematopoietic Stem cells 3","MK",0.00057458829232075,0
+"58","B cells 1","Hematopoietic Stem cells 3","SEMA4",8.4623682634605e-08,0.01
+"59","Hematopoietic Stem cells 1","B cells 1","APP",7.42087390154997e-05,0
+"60","Hematopoietic Stem cells 1","B cells 1","BAFF",2.91181851749967e-08,0
+"61","Hematopoietic Stem cells 1","B cells 1","BTLA",3.67882051880506e-09,0
+"62","Hematopoietic Stem cells 1","B cells 1","CD22",0.000144888985795258,0.03
+"63","Hematopoietic Stem cells 1","B cells 1","CD23",2.10397262771759e-07,0
+"64","Hematopoietic Stem cells 1","B cells 1","COLLAGEN",9.58616310844912e-07,0
+"65","Hematopoietic Stem cells 1","B cells 1","EPHA",2.44861967818354e-08,0
+"66","Hematopoietic Stem cells 1","B cells 1","EPHB",2.51430215751057e-07,0
+"67","Hematopoietic Stem cells 1","B cells 1","FGF",1.93307534395145e-08,0
+"68","Hematopoietic Stem cells 1","B cells 1","GALECTIN",0.000424392141010688,0.015
+"69","Hematopoietic Stem cells 1","B cells 1","GP1BA",6.48126777318922e-09,0
+"70","Hematopoietic Stem cells 1","B cells 1","IGF",4.30718774324977e-07,0
+"71","Hematopoietic Stem cells 1","B cells 1","IL1",0.000525361017046174,0
+"72","Hematopoietic Stem cells 1","B cells 1","MHC-I",0.00317724723220077,0.00333333333333333
+"73","Hematopoietic Stem cells 1","B cells 1","MHC-II",0.00322545138720743,0
+"74","Hematopoietic Stem cells 1","B cells 1","MIF",2.3485833547169e-05,0
+"75","Hematopoietic Stem cells 1","B cells 1","MK",0.0031256598754547,0
+"76","Hematopoietic Stem cells 1","B cells 1","MPZ",1.60058541622416e-07,0
+"77","Hematopoietic Stem cells 1","B cells 1","NPR2",2.81169621140416e-09,0
+"78","Hematopoietic Stem cells 1","B cells 1","PDGF",1.72118694939311e-06,0
+"79","Hematopoietic Stem cells 1","B cells 1","SEMA4",4.91890110135166e-07,0
+"80","Hematopoietic Stem cells 1","B cells 1","TGFb",6.73643500631389e-05,0
+"81","Hematopoietic Stem cells 1","B cells 1","TRAIL",1.7399639243576e-08,0
+"82","Hematopoietic Stem cells 1","B cells 1","VEGF",1.87231815747735e-08,0
+"83","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","APP",2.51427286604125e-05,0
+"84","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","BAFF",5.96932084442319e-07,0
+"85","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","BTLA",4.20177934168067e-09,0
+"86","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","CD23",8.13489335403716e-08,0.02
+"87","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","CD99",0.00339697128842316,0
+"88","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","COLLAGEN",3.4845233813162e-07,0
+"89","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","EPHA",2.02245229898574e-06,0
+"90","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","EPHB",1.2147598509383e-07,0
+"91","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","FGF",6.56001259308496e-07,0
+"92","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","GALECTIN",5.28142486456095e-05,0
+"93","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","GP1BA",2.50837496618838e-09,0.02
+"94","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","ICAM",3.2638663321251e-07,0.04
+"95","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","IGF",1.53332095608817e-07,0
+"96","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","IL1",0.000190441890160974,0
+"97","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","LT",2.99610021916966e-05,0
+"98","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","MIF",9.27784791718296e-06,0
+"99","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","MK",0.00113217199667538,0
+"100","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","NPR2",1.03492576409478e-09,0.02
+"101","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","SEMA4",1.78669488388533e-07,0
+"102","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","TGFb",1.93068003443545e-05,0
+"103","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","TNF",5.60122635980299e-05,0
+"104","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","TRAIL",6.98215927888176e-09,0
+"105","Hematopoietic Stem cells 1","Hematopoietic Stem cells 1","VEGF",8.08706337817432e-09,0
+"106","Hematopoietic Stem cells 1","Hematopoietic Stem cells 2","APP",4.8493458145443e-05,0
+"107","Hematopoietic Stem cells 1","Hematopoietic Stem cells 2","BAFF",1.11630215737604e-08,0
+"108","Hematopoietic Stem cells 1","Hematopoietic Stem cells 2","BTLA",2.84609755975355e-09,0
+"109","Hematopoietic Stem cells 1","Hematopoietic Stem cells 2","CD23",1.31556229350541e-07,0.005
+"110","Hematopoietic Stem cells 1","Hematopoietic Stem cells 2","COLLAGEN",5.85982867597496e-07,0
+"111","Hematopoietic Stem cells 1","Hematopoietic Stem cells 2","EPHA",2.21012448273414e-09,0
+"112","Hematopoietic Stem cells 1","Hematopoietic Stem cells 2","FGF",4.91094955076347e-09,0
+"113","Hematopoietic Stem cells 1","Hematopoietic Stem cells 2","IGF",2.53644696761533e-07,0
+"114","Hematopoietic Stem cells 1","Hematopoietic Stem cells 2","MIF",0.00297422088046262,0
+"115","Hematopoietic Stem cells 1","Hematopoietic Stem cells 2","MK",0.00190325396601867,0
+"116","Hematopoietic Stem cells 1","Hematopoietic Stem cells 2","SEMA4",3.01175529305057e-07,0
+"117","Hematopoietic Stem cells 1","Hematopoietic Stem cells 3","APP",1.35599919998596e-05,0
+"118","Hematopoietic Stem cells 1","Hematopoietic Stem cells 3","BAFF",3.74053107011777e-09,0
+"119","Hematopoietic Stem cells 1","Hematopoietic Stem cells 3","CD23",7.06059917045688e-08,0
+"120","Hematopoietic Stem cells 1","Hematopoietic Stem cells 3","CD99",0.00175137966081332,0
+"121","Hematopoietic Stem cells 1","Hematopoietic Stem cells 3","COLLAGEN",1.79658653864336e-07,0
+"122","Hematopoietic Stem cells 1","Hematopoietic Stem cells 3","EPHA",2.50730153121484e-09,0.03
+"123","Hematopoietic Stem cells 1","Hematopoietic Stem cells 3","EPHB",3.70685181569214e-08,0.04
+"124","Hematopoietic Stem cells 1","Hematopoietic Stem cells 3","FGF",2.35593827461805e-09,0.04
+"125","Hematopoietic Stem cells 1","Hematopoietic Stem cells 3","GALECTIN",2.72305136511614e-05,0
+"126","Hematopoietic Stem cells 1","Hematopoietic Stem cells 3","GP1BA",1.98793976863027e-09,0
+"127","Hematopoietic Stem cells 1","Hematopoietic Stem cells 3","ICAM",4.79773753086605e-05,0.004
+"128","Hematopoietic Stem cells 1","Hematopoietic Stem cells 3","IGF",7.6560012199735e-08,0
+"129","Hematopoietic Stem cells 1","Hematopoietic Stem cells 3","MK",0.000699087579772251,0
+"130","Hematopoietic Stem cells 1","Hematopoietic Stem cells 3","SEMA4",9.18904041711799e-08,0
+"131","Hematopoietic Stem cells 2","B cells 1","APP",0.000112109283359574,0.04
+"132","Hematopoietic Stem cells 2","B cells 1","GALECTIN",0.000717354881950593,0.02
+"133","Hematopoietic Stem cells 2","B cells 1","IL1",0.000248973955093658,0.025
+"134","Hematopoietic Stem cells 2","B cells 1","MHC-I",0.00764521830098434,0
+"135","Hematopoietic Stem cells 2","B cells 1","MHC-II",0.0315967324989572,0
+"136","Hematopoietic Stem cells 2","B cells 1","MIF",3.96593835754197e-05,0
+"137","Hematopoietic Stem cells 2","B cells 1","TGFb",0.000111367111829201,0
+"138","Hematopoietic Stem cells 2","Hematopoietic Stem cells 1","BAFF",1.11633006228509e-08,0
+"139","Hematopoietic Stem cells 2","Hematopoietic Stem cells 1","BTLA",2.84609755975355e-09,0
+"140","Hematopoietic Stem cells 2","Hematopoietic Stem cells 1","EPHA",1.9096556130255e-08,0
+"141","Hematopoietic Stem cells 2","Hematopoietic Stem cells 1","FGF",7.35988107298842e-09,0
+"142","Hematopoietic Stem cells 2","Hematopoietic Stem cells 1","GALECTIN",8.9272527554949e-05,0
+"143","Hematopoietic Stem cells 2","Hematopoietic Stem cells 1","ICAM",4.06941598077815e-07,0.04
+"144","Hematopoietic Stem cells 2","Hematopoietic Stem cells 1","LT",5.60168630230692e-05,0
+"145","Hematopoietic Stem cells 2","Hematopoietic Stem cells 1","MHC-I",0.000786123285070279,0.04
+"146","Hematopoietic Stem cells 2","Hematopoietic Stem cells 1","MHC-II",0.00713740859174165,0.0025
+"147","Hematopoietic Stem cells 2","Hematopoietic Stem cells 1","MIF",1.56670504553106e-05,0
+"148","Hematopoietic Stem cells 2","Hematopoietic Stem cells 1","SEMA4",2.29452968015059e-10,0
+"149","Hematopoietic Stem cells 2","Hematopoietic Stem cells 1","TGFb",3.19181313452828e-05,0.00333333333333333
+"150","Hematopoietic Stem cells 2","Hematopoietic Stem cells 2","APP",7.32609647669086e-05,0
+"151","Hematopoietic Stem cells 2","Hematopoietic Stem cells 2","MHC-II",0.0130703836768579,0
+"152","Hematopoietic Stem cells 2","Hematopoietic Stem cells 2","MIF",0.00502261447425095,0
+"153","Hematopoietic Stem cells 2","Hematopoietic Stem cells 3","GALECTIN",4.60280481612192e-05,0
+"154","Hematopoietic Stem cells 2","Hematopoietic Stem cells 3","ICAM",3.41028664211486e-05,0.01
+"155","Hematopoietic Stem cells 2","Hematopoietic Stem cells 3","MHC-II",0.00112460650334979,0
+"156","Hematopoietic Stem cells 3","B cells 1","APP",7.30849169353376e-05,0
+"157","Hematopoietic Stem cells 3","B cells 1","GALECTIN",0.000218804252631808,0.02
+"158","Hematopoietic Stem cells 3","B cells 1","ICAM",3.01265985157255e-05,0.025
+"159","Hematopoietic Stem cells 3","B cells 1","ITGB2",0.00039847511346703,0.005
+"160","Hematopoietic Stem cells 3","B cells 1","MIF",0.00389935726817248,0
+"161","Hematopoietic Stem cells 3","B cells 1","MK",9.76197610484256e-05,0
+"162","Hematopoietic Stem cells 3","B cells 1","PDGF",8.8493383027313e-07,0
+"163","Hematopoietic Stem cells 3","B cells 1","TGFb",3.58107251233345e-05,0
+"164","Hematopoietic Stem cells 3","Hematopoietic Stem cells 1","APP",2.47633699217454e-05,0
+"165","Hematopoietic Stem cells 3","Hematopoietic Stem cells 1","BAFF",3.74062457452981e-09,0
+"166","Hematopoietic Stem cells 3","Hematopoietic Stem cells 1","CD99",0.00175137966081332,0
+"167","Hematopoietic Stem cells 3","Hematopoietic Stem cells 1","EPHA",1.28043770534158e-08,0
+"168","Hematopoietic Stem cells 3","Hematopoietic Stem cells 1","EPHB",8.83020699477885e-11,0.04
+"169","Hematopoietic Stem cells 3","Hematopoietic Stem cells 1","FGF",3.35185435946514e-09,0
+"170","Hematopoietic Stem cells 3","Hematopoietic Stem cells 1","GALECTIN",2.72294915162485e-05,0
+"171","Hematopoietic Stem cells 3","Hematopoietic Stem cells 1","ICAM",1.10873120324819e-05,0.0225
+"172","Hematopoietic Stem cells 3","Hematopoietic Stem cells 1","ITGB2",0.000144445110451399,0
+"173","Hematopoietic Stem cells 3","Hematopoietic Stem cells 1","LT",1.5200139526247e-05,0
+"174","Hematopoietic Stem cells 3","Hematopoietic Stem cells 1","MIF",0.00127109694303693,0
+"175","Hematopoietic Stem cells 3","Hematopoietic Stem cells 1","SEMA4",9.62391434176155e-11,0
+"176","Hematopoietic Stem cells 3","Hematopoietic Stem cells 1","TGFb",1.0263493790937e-05,0
+"177","Hematopoietic Stem cells 3","Hematopoietic Stem cells 1","VEGF",2.03660378093612e-09,0.01
+"178","Hematopoietic Stem cells 3","Hematopoietic Stem cells 2","APP",4.77562873862945e-05,0
+"179","Hematopoietic Stem cells 3","Hematopoietic Stem cells 2","ITGB2",0.000179871241550117,0
+"180","Hematopoietic Stem cells 3","Hematopoietic Stem cells 2","MIF",0.00257464820450639,0
+"181","Hematopoietic Stem cells 3","Hematopoietic Stem cells 3","APP",1.33548944880526e-05,0
+"182","Hematopoietic Stem cells 3","Hematopoietic Stem cells 3","CD23",3.21916085979148e-08,0.01
+"183","Hematopoietic Stem cells 3","Hematopoietic Stem cells 3","CD99",0.000902960447962579,0
+"184","Hematopoietic Stem cells 3","Hematopoietic Stem cells 3","GALECTIN",1.40392613634016e-05,0
+"185","Hematopoietic Stem cells 3","Hematopoietic Stem cells 3","ICAM",2.47818584968899e-05,0.008
+"186","Hematopoietic Stem cells 3","Hematopoietic Stem cells 3","ITGB2",7.45346973019181e-05,0.005
+"187","Hematopoietic Stem cells 3","Hematopoietic Stem cells 3","MIF",0.000619093639859872,0
+"188","Hematopoietic Stem cells 3","Hematopoietic Stem cells 3","MK",0.000107352546151463,0

@@ -1,0 +1,12 @@
+Gene	Type
+ARFGAP1	target
+BCL3	target
+DCAF4	target
+EPT1	target
+PAQR8	target
+PER1	target
+RXRB	ligand
+HUS1	target
+LIN54	target
+CSRP1	target
+SLC35A4	target
